@@ -27,4 +27,4 @@ Scenario Outline: Register User to the application - Note : please enter new ema
 
     Examples:
     |emailid|FirstName|LastName|Password|Address|City|State|ZipCode|MobileNumber|status|
-    |kalyan4@mail.com|Kalyan   |Manda   |12345  |1234567 |Ohio|1|12345  |9012345678|success|
+    |kalyan5@mail.com|Kalyan   |Manda   |12345  |1234567 |Ohio|1|12345  |9012345678|success|
